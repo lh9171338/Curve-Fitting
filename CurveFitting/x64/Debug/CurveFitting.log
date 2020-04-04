@@ -1,0 +1,285 @@
+﻿  main.cpp
+  E:\opencv\G2O\CurveFitting\CurveFitting\main.cpp: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\g2o\source\g2o\core\hyper_graph.h(155,25): warning C4251:  “g2o::HyperGraph::Vertex::_edges”: class“std::set<g2o::HyperGraph::Edge *,std::less<_Kty>,std::allocator<_Kty>>”需要有 dll 接口由 class“g2o::HyperGraph::Vertex”的客户端使用
+D:\g2o\source\g2o\core\hyper_graph.h(155,25): warning C4251:         with
+D:\g2o\source\g2o\core\hyper_graph.h(155,25): warning C4251:         [
+D:\g2o\source\g2o\core\hyper_graph.h(155,25): warning C4251:             _Kty=g2o::HyperGraph::Edge *
+D:\g2o\source\g2o\core\hyper_graph.h(155,25): warning C4251:         ]
+D:\g2o\source\g2o\core\hyper_graph.h(133): message :  参见“std::set<g2o::HyperGraph::Edge *,std::less<_Kty>,std::allocator<_Kty>>”的声明
+D:\g2o\source\g2o\core\hyper_graph.h(133): message :         with
+D:\g2o\source\g2o\core\hyper_graph.h(133): message :         [
+D:\g2o\source\g2o\core\hyper_graph.h(133): message :             _Kty=g2o::HyperGraph::Edge *
+D:\g2o\source\g2o\core\hyper_graph.h(133): message :         ]
+D:\g2o\source\g2o\core\hyper_graph.h(200,36): warning C4251:  “g2o::HyperGraph::Edge::_vertices”: class“std::vector<g2o::HyperGraph::Vertex *,std::allocator<_Kty>>”需要有 dll 接口由 class“g2o::HyperGraph::Edge”的客户端使用
+D:\g2o\source\g2o\core\hyper_graph.h(200,36): warning C4251:         with
+D:\g2o\source\g2o\core\hyper_graph.h(200,36): warning C4251:         [
+D:\g2o\source\g2o\core\hyper_graph.h(200,36): warning C4251:             _Kty=g2o::HyperGraph::Vertex *
+D:\g2o\source\g2o\core\hyper_graph.h(200,36): warning C4251:         ]
+D:\g2o\source\g2o\core\hyper_graph.h(137): message :  参见“std::vector<g2o::HyperGraph::Vertex *,std::allocator<_Kty>>”的声明
+D:\g2o\source\g2o\core\hyper_graph.h(137): message :         with
+D:\g2o\source\g2o\core\hyper_graph.h(137): message :         [
+D:\g2o\source\g2o\core\hyper_graph.h(137): message :             _Kty=g2o::HyperGraph::Vertex *
+D:\g2o\source\g2o\core\hyper_graph.h(137): message :         ]
+D:\g2o\source\g2o\core\hyper_graph.h(272,28): warning C4251:  “g2o::HyperGraph::_vertices”: class“std::unordered_map<int,g2o::HyperGraph::Vertex *,std::hash<int>,std::equal_to<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“g2o::HyperGraph”的客户端使用
+D:\g2o\source\g2o\core\hyper_graph.h(272,28): warning C4251:         with
+D:\g2o\source\g2o\core\hyper_graph.h(272,28): warning C4251:         [
+D:\g2o\source\g2o\core\hyper_graph.h(272,28): warning C4251:             _Kty=int,
+D:\g2o\source\g2o\core\hyper_graph.h(272,28): warning C4251:             _Ty=g2o::HyperGraph::Vertex *
+D:\g2o\source\g2o\core\hyper_graph.h(272,28): warning C4251:         ]
+D:\g2o\source\g2o\core\hyper_graph.h(136): message :  参见“std::unordered_map<int,g2o::HyperGraph::Vertex *,std::hash<int>,std::equal_to<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+D:\g2o\source\g2o\core\hyper_graph.h(136): message :         with
+D:\g2o\source\g2o\core\hyper_graph.h(136): message :         [
+D:\g2o\source\g2o\core\hyper_graph.h(136): message :             _Kty=int,
+D:\g2o\source\g2o\core\hyper_graph.h(136): message :             _Ty=g2o::HyperGraph::Vertex *
+D:\g2o\source\g2o\core\hyper_graph.h(136): message :         ]
+D:\g2o\source\g2o\core\hyper_graph.h(273,21): warning C4251:  “g2o::HyperGraph::_edges”: class“std::set<g2o::HyperGraph::Edge *,std::less<_Kty>,std::allocator<_Kty>>”需要有 dll 接口由 class“g2o::HyperGraph”的客户端使用
+D:\g2o\source\g2o\core\hyper_graph.h(273,21): warning C4251:         with
+D:\g2o\source\g2o\core\hyper_graph.h(273,21): warning C4251:         [
+D:\g2o\source\g2o\core\hyper_graph.h(273,21): warning C4251:             _Kty=g2o::HyperGraph::Edge *
+D:\g2o\source\g2o\core\hyper_graph.h(273,21): warning C4251:         ]
+D:\g2o\source\g2o\core\hyper_graph.h(133): message :  参见“std::set<g2o::HyperGraph::Edge *,std::less<_Kty>,std::allocator<_Kty>>”的声明
+D:\g2o\source\g2o\core\hyper_graph.h(133): message :         with
+D:\g2o\source\g2o\core\hyper_graph.h(133): message :         [
+D:\g2o\source\g2o\core\hyper_graph.h(133): message :             _Kty=g2o::HyperGraph::Edge *
+D:\g2o\source\g2o\core\hyper_graph.h(133): message :         ]
+D:\g2o\source\g2o\core\jacobian_workspace.h(91,33): warning C4251:  “g2o::JacobianWorkspace::_workspace”: class“std::vector<g2o::VectorX,Eigen::aligned_allocator<g2o::VectorX>>”需要有 dll 接口由 class“g2o::JacobianWorkspace”的客户端使用
+D:\g2o\source\g2o\core\jacobian_workspace.h(55): message :  参见“std::vector<g2o::VectorX,Eigen::aligned_allocator<g2o::VectorX>>”的声明
+D:\g2o\source\g2o\core\optimizable_graph.h(318,40): warning C4251:  “g2o::OptimizableGraph::Vertex::_quadraticFormMutex”: class“g2o::OpenMPMutex”需要有 dll 接口由 class“g2o::OptimizableGraph::Vertex”的客户端使用
+D:\g2o\source\g2o\core\openmp_mutex.h(62): message :  参见“g2o::OpenMPMutex”的声明
+D:\g2o\source\g2o\core\optimizable_graph.h(466,35): warning C4251:  “g2o::OptimizableGraph::Edge::_cacheIds”: class“std::vector<int,std::allocator<_Ty>>”需要有 dll 接口由 class“g2o::OptimizableGraph::Edge”的客户端使用
+D:\g2o\source\g2o\core\optimizable_graph.h(466,35): warning C4251:         with
+D:\g2o\source\g2o\core\optimizable_graph.h(466,35): warning C4251:         [
+D:\g2o\source\g2o\core\optimizable_graph.h(466,35): warning C4251:             _Ty=int
+D:\g2o\source\g2o\core\optimizable_graph.h(466,35): warning C4251:         ]
+D:\g2o\source\g2o\core\optimizable_graph.h(466): message :  参见“std::vector<int,std::allocator<_Ty>>”的声明
+D:\g2o\source\g2o\core\optimizable_graph.h(466): message :         with
+D:\g2o\source\g2o\core\optimizable_graph.h(466): message :         [
+D:\g2o\source\g2o\core\optimizable_graph.h(466): message :             _Ty=int
+D:\g2o\source\g2o\core\optimizable_graph.h(466): message :         ]
+D:\g2o\source\g2o\core\optimizable_graph.h(486,49): warning C4251:  “g2o::OptimizableGraph::Edge::_parameterTypes”: class“std::vector<std::string,std::allocator<_Ty>>”需要有 dll 接口由 class“g2o::OptimizableGraph::Edge”的客户端使用
+D:\g2o\source\g2o\core\optimizable_graph.h(486,49): warning C4251:         with
+D:\g2o\source\g2o\core\optimizable_graph.h(486,49): warning C4251:         [
+D:\g2o\source\g2o\core\optimizable_graph.h(486,49): warning C4251:             _Ty=std::string
+D:\g2o\source\g2o\core\optimizable_graph.h(486,49): warning C4251:         ]
+D:\g2o\source\g2o\core\optimizable_graph.h(486): message :  参见“std::vector<std::string,std::allocator<_Ty>>”的声明
+D:\g2o\source\g2o\core\optimizable_graph.h(486): message :         with
+D:\g2o\source\g2o\core\optimizable_graph.h(486): message :         [
+D:\g2o\source\g2o\core\optimizable_graph.h(486): message :             _Ty=std::string
+D:\g2o\source\g2o\core\optimizable_graph.h(486): message :         ]
+D:\g2o\source\g2o\core\optimizable_graph.h(487,45): warning C4251:  “g2o::OptimizableGraph::Edge::_parameters”: class“std::vector<g2o::Parameter **,std::allocator<_Ty>>”需要有 dll 接口由 class“g2o::OptimizableGraph::Edge”的客户端使用
+D:\g2o\source\g2o\core\optimizable_graph.h(487,45): warning C4251:         with
+D:\g2o\source\g2o\core\optimizable_graph.h(487,45): warning C4251:         [
+D:\g2o\source\g2o\core\optimizable_graph.h(487,45): warning C4251:             _Ty=g2o::Parameter **
+D:\g2o\source\g2o\core\optimizable_graph.h(487,45): warning C4251:         ]
+D:\g2o\source\g2o\core\optimizable_graph.h(487): message :  参见“std::vector<g2o::Parameter **,std::allocator<_Ty>>”的声明
+D:\g2o\source\g2o\core\optimizable_graph.h(487): message :         with
+D:\g2o\source\g2o\core\optimizable_graph.h(487): message :         [
+D:\g2o\source\g2o\core\optimizable_graph.h(487): message :             _Ty=g2o::Parameter **
+D:\g2o\source\g2o\core\optimizable_graph.h(487): message :         ]
+D:\g2o\source\g2o\core\optimizable_graph.h(488,39): warning C4251:  “g2o::OptimizableGraph::Edge::_parameterIds”: class“std::vector<int,std::allocator<_Ty>>”需要有 dll 接口由 class“g2o::OptimizableGraph::Edge”的客户端使用
+D:\g2o\source\g2o\core\optimizable_graph.h(488,39): warning C4251:         with
+D:\g2o\source\g2o\core\optimizable_graph.h(488,39): warning C4251:         [
+D:\g2o\source\g2o\core\optimizable_graph.h(488,39): warning C4251:             _Ty=int
+D:\g2o\source\g2o\core\optimizable_graph.h(488,39): warning C4251:         ]
+D:\g2o\source\g2o\core\optimizable_graph.h(466): message :  参见“std::vector<int,std::allocator<_Ty>>”的声明
+D:\g2o\source\g2o\core\optimizable_graph.h(466): message :         with
+D:\g2o\source\g2o\core\optimizable_graph.h(466): message :         [
+D:\g2o\source\g2o\core\optimizable_graph.h(466): message :             _Ty=int
+D:\g2o\source\g2o\core\optimizable_graph.h(466): message :         ]
+D:\g2o\source\g2o\core\optimizable_graph.h(654,59): warning C4251:  “g2o::OptimizableGraph::_renamedTypesLookup”: class“std::map<std::string,std::string,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 struct“g2o::OptimizableGraph”的客户端使用
+D:\g2o\source\g2o\core\optimizable_graph.h(654,59): warning C4251:         with
+D:\g2o\source\g2o\core\optimizable_graph.h(654,59): warning C4251:         [
+D:\g2o\source\g2o\core\optimizable_graph.h(654,59): warning C4251:             _Kty=std::string,
+D:\g2o\source\g2o\core\optimizable_graph.h(654,59): warning C4251:             _Ty=std::string
+D:\g2o\source\g2o\core\optimizable_graph.h(654,59): warning C4251:         ]
+D:\g2o\source\g2o\core\parameter_container.h(61): message :  参见“std::map<std::string,std::string,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+D:\g2o\source\g2o\core\parameter_container.h(61): message :         with
+D:\g2o\source\g2o\core\parameter_container.h(61): message :         [
+D:\g2o\source\g2o\core\parameter_container.h(61): message :             _Kty=std::string,
+D:\g2o\source\g2o\core\parameter_container.h(61): message :             _Ty=std::string
+D:\g2o\source\g2o\core\parameter_container.h(61): message :         ]
+D:\g2o\source\g2o\core\optimizable_graph.h(656,51): warning C4251:  “g2o::OptimizableGraph::_graphActions”: class“std::vector<g2o::OptimizableGraph::HyperGraphActionSet,std::allocator<_Ty>>”需要有 dll 接口由 struct“g2o::OptimizableGraph”的客户端使用
+D:\g2o\source\g2o\core\optimizable_graph.h(656,51): warning C4251:         with
+D:\g2o\source\g2o\core\optimizable_graph.h(656,51): warning C4251:         [
+D:\g2o\source\g2o\core\optimizable_graph.h(656,51): warning C4251:             _Ty=g2o::OptimizableGraph::HyperGraphActionSet
+D:\g2o\source\g2o\core\optimizable_graph.h(656,51): warning C4251:         ]
+D:\g2o\source\g2o\core\optimizable_graph.h(656): message :  参见“std::vector<g2o::OptimizableGraph::HyperGraphActionSet,std::allocator<_Ty>>”的声明
+D:\g2o\source\g2o\core\optimizable_graph.h(656): message :         with
+D:\g2o\source\g2o\core\optimizable_graph.h(656): message :         [
+D:\g2o\source\g2o\core\optimizable_graph.h(656): message :             _Ty=g2o::OptimizableGraph::HyperGraphActionSet
+D:\g2o\source\g2o\core\optimizable_graph.h(656): message :         ]
+D:\g2o\source\g2o\core\optimizable_graph.h(661,35): warning C4251:  “g2o::OptimizableGraph::_parameters”: class“g2o::ParameterContainer”需要有 dll 接口由 struct“g2o::OptimizableGraph”的客户端使用
+D:\g2o\source\g2o\core\parameter_container.h(41): message :  参见“g2o::ParameterContainer”的声明
+D:\g2o\source\g2o\core\sparse_optimizer.h(292,27): warning C4251:  “g2o::SparseOptimizer::_ivMap”: class“std::vector<g2o::OptimizableGraph::Vertex *,std::allocator<_Ty>>”需要有 dll 接口由 class“g2o::SparseOptimizer”的客户端使用
+D:\g2o\source\g2o\core\sparse_optimizer.h(292,27): warning C4251:         with
+D:\g2o\source\g2o\core\sparse_optimizer.h(292,27): warning C4251:         [
+D:\g2o\source\g2o\core\sparse_optimizer.h(292,27): warning C4251:             _Ty=g2o::OptimizableGraph::Vertex *
+D:\g2o\source\g2o\core\sparse_optimizer.h(292,27): warning C4251:         ]
+D:\g2o\source\g2o\core\optimizable_graph.h(96): message :  参见“std::vector<g2o::OptimizableGraph::Vertex *,std::allocator<_Ty>>”的声明
+D:\g2o\source\g2o\core\optimizable_graph.h(96): message :         with
+D:\g2o\source\g2o\core\optimizable_graph.h(96): message :         [
+D:\g2o\source\g2o\core\optimizable_graph.h(96): message :             _Ty=g2o::OptimizableGraph::Vertex *
+D:\g2o\source\g2o\core\optimizable_graph.h(96): message :         ]
+D:\g2o\source\g2o\core\sparse_optimizer.h(293,36): warning C4251:  “g2o::SparseOptimizer::_activeVertices”: class“std::vector<g2o::OptimizableGraph::Vertex *,std::allocator<_Ty>>”需要有 dll 接口由 class“g2o::SparseOptimizer”的客户端使用
+D:\g2o\source\g2o\core\sparse_optimizer.h(293,36): warning C4251:         with
+D:\g2o\source\g2o\core\sparse_optimizer.h(293,36): warning C4251:         [
+D:\g2o\source\g2o\core\sparse_optimizer.h(293,36): warning C4251:             _Ty=g2o::OptimizableGraph::Vertex *
+D:\g2o\source\g2o\core\sparse_optimizer.h(293,36): warning C4251:         ]
+D:\g2o\source\g2o\core\optimizable_graph.h(96): message :  参见“std::vector<g2o::OptimizableGraph::Vertex *,std::allocator<_Ty>>”的声明
+D:\g2o\source\g2o\core\optimizable_graph.h(96): message :         with
+D:\g2o\source\g2o\core\optimizable_graph.h(96): message :         [
+D:\g2o\source\g2o\core\optimizable_graph.h(96): message :             _Ty=g2o::OptimizableGraph::Vertex *
+D:\g2o\source\g2o\core\optimizable_graph.h(96): message :         ]
+D:\g2o\source\g2o\core\sparse_optimizer.h(294,31): warning C4251:  “g2o::SparseOptimizer::_activeEdges”: class“std::vector<g2o::OptimizableGraph::Edge *,std::allocator<_Ty>>”需要有 dll 接口由 class“g2o::SparseOptimizer”的客户端使用
+D:\g2o\source\g2o\core\sparse_optimizer.h(294,31): warning C4251:         with
+D:\g2o\source\g2o\core\sparse_optimizer.h(294,31): warning C4251:         [
+D:\g2o\source\g2o\core\sparse_optimizer.h(294,31): warning C4251:             _Ty=g2o::OptimizableGraph::Edge *
+D:\g2o\source\g2o\core\sparse_optimizer.h(294,31): warning C4251:         ]
+D:\g2o\source\g2o\core\optimizable_graph.h(98): message :  参见“std::vector<g2o::OptimizableGraph::Edge *,std::allocator<_Ty>>”的声明
+D:\g2o\source\g2o\core\optimizable_graph.h(98): message :         with
+D:\g2o\source\g2o\core\optimizable_graph.h(98): message :         [
+D:\g2o\source\g2o\core\optimizable_graph.h(98): message :             _Ty=g2o::OptimizableGraph::Edge *
+D:\g2o\source\g2o\core\optimizable_graph.h(98): message :         ]
+D:\g2o\source\g2o\core\sparse_optimizer.h(306,46): warning C4251:  “g2o::SparseOptimizer::_batchStatistics”: class“std::vector<g2o::G2OBatchStatistics,std::allocator<_Ty>>”需要有 dll 接口由 class“g2o::SparseOptimizer”的客户端使用
+D:\g2o\source\g2o\core\sparse_optimizer.h(306,46): warning C4251:         with
+D:\g2o\source\g2o\core\sparse_optimizer.h(306,46): warning C4251:         [
+D:\g2o\source\g2o\core\sparse_optimizer.h(306,46): warning C4251:             _Ty=g2o::G2OBatchStatistics
+D:\g2o\source\g2o\core\sparse_optimizer.h(306,46): warning C4251:         ]
+D:\g2o\source\g2o\core\batch_stats.h(81): message :  参见“std::vector<g2o::G2OBatchStatistics,std::allocator<_Ty>>”的声明
+D:\g2o\source\g2o\core\batch_stats.h(81): message :         with
+D:\g2o\source\g2o\core\batch_stats.h(81): message :         [
+D:\g2o\source\g2o\core\batch_stats.h(81): message :             _Ty=g2o::G2OBatchStatistics
+D:\g2o\source\g2o\core\batch_stats.h(81): message :         ]
+D:\g2o\source\g2o\stuff\timeutil.h(105,23): warning C4251:  “g2o::ScopeTime::_title”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“g2o::ScopeTime”的客户端使用
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(4231): message :  参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+D:\g2o\source\g2o\stuff\property.h(47,24): warning C4251:  “g2o::BaseProperty::_name”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“g2o::BaseProperty”的客户端使用
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(4231): message :  参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+D:\g2o\source\g2o\stuff\property.h(77,3): warning C4251:  “std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::_Mypair”: class“std::_Compressed_pair<std::less<_Kty>,std::_Compressed_pair<std::allocator<std::_Tree_node<std::pair<const _Kty,_Ty>,std::_Default_allocator_traits<_Alloc>::void_pointer>>,std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>,true>,true>”需要有 dll 接口由 class“std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>”的客户端使用
+D:\g2o\source\g2o\stuff\property.h(77,3): warning C4251:         with
+D:\g2o\source\g2o\stuff\property.h(77,3): warning C4251:         [
+D:\g2o\source\g2o\stuff\property.h(77,3): warning C4251:             _Kty=std::string,
+D:\g2o\source\g2o\stuff\property.h(77,3): warning C4251:             _Ty=g2o::BaseProperty *,
+D:\g2o\source\g2o\stuff\property.h(77,3): warning C4251:             _Pr=std::less<std::string>,
+D:\g2o\source\g2o\stuff\property.h(77,3): warning C4251:             _Alloc=std::allocator<std::pair<const std::string,g2o::BaseProperty *>>
+D:\g2o\source\g2o\stuff\property.h(77,3): warning C4251:         ]
+D:\g2o\source\g2o\stuff\property.h(77,3): warning C4251:         and
+D:\g2o\source\g2o\stuff\property.h(77,3): warning C4251:         [
+D:\g2o\source\g2o\stuff\property.h(77,3): warning C4251:             _Kty=std::string,
+D:\g2o\source\g2o\stuff\property.h(77,3): warning C4251:             _Ty=g2o::BaseProperty *,
+D:\g2o\source\g2o\stuff\property.h(77,3): warning C4251:             _Alloc=std::allocator<std::pair<const std::string,g2o::BaseProperty *>>
+D:\g2o\source\g2o\stuff\property.h(77,3): warning C4251:         ]
+D:\g2o\source\g2o\stuff\property.h(77,3): warning C4251:         and
+D:\g2o\source\g2o\stuff\property.h(77,3): warning C4251:         [
+D:\g2o\source\g2o\stuff\property.h(77,3): warning C4251:             _Kty=std::string,
+D:\g2o\source\g2o\stuff\property.h(77,3): warning C4251:             _Ty=g2o::BaseProperty *,
+D:\g2o\source\g2o\stuff\property.h(77,3): warning C4251:             _Pr=std::less<std::string>,
+D:\g2o\source\g2o\stuff\property.h(77,3): warning C4251:             _Alloc=std::allocator<std::pair<const std::string,g2o::BaseProperty *>>
+D:\g2o\source\g2o\stuff\property.h(77,3): warning C4251:         ]
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xtree(1895): message :  参见“std::_Compressed_pair<std::less<_Kty>,std::_Compressed_pair<std::allocator<std::_Tree_node<std::pair<const _Kty,_Ty>,std::_Default_allocator_traits<_Alloc>::void_pointer>>,std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>,true>,true>”的声明
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xtree(1895): message :         with
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xtree(1895): message :         [
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xtree(1895): message :             _Kty=std::string,
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xtree(1895): message :             _Ty=g2o::BaseProperty *,
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xtree(1895): message :             _Alloc=std::allocator<std::pair<const std::string,g2o::BaseProperty *>>
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xtree(1895): message :         ]
+D:\g2o\source\g2o\core\optimization_algorithm_levenberg.h(90,39): warning C4251:  “g2o::OptimizationAlgorithmLevenberg::m_solver”: class“std::unique_ptr<g2o::Solver,std::default_delete<_Ty>>”需要有 dll 接口由 class“g2o::OptimizationAlgorithmLevenberg”的客户端使用
+D:\g2o\source\g2o\core\optimization_algorithm_levenberg.h(90,39): warning C4251:         with
+D:\g2o\source\g2o\core\optimization_algorithm_levenberg.h(90,39): warning C4251:         [
+D:\g2o\source\g2o\core\optimization_algorithm_levenberg.h(90,39): warning C4251:             _Ty=g2o::Solver
+D:\g2o\source\g2o\core\optimization_algorithm_levenberg.h(90,39): warning C4251:         ]
+D:\g2o\source\g2o\core\optimization_algorithm_levenberg.h(47): message :  参见“std::unique_ptr<g2o::Solver,std::default_delete<_Ty>>”的声明
+D:\g2o\source\g2o\core\optimization_algorithm_levenberg.h(47): message :         with
+D:\g2o\source\g2o\core\optimization_algorithm_levenberg.h(47): message :         [
+D:\g2o\source\g2o\core\optimization_algorithm_levenberg.h(47): message :             _Ty=g2o::Solver
+D:\g2o\source\g2o\core\optimization_algorithm_levenberg.h(47): message :         ]
+D:\g2o\source\g2o\core\optimization_algorithm_gauss_newton.h(54,37): warning C4251:  “g2o::OptimizationAlgorithmGaussNewton::m_solver”: class“std::unique_ptr<g2o::Solver,std::default_delete<_Ty>>”需要有 dll 接口由 class“g2o::OptimizationAlgorithmGaussNewton”的客户端使用
+D:\g2o\source\g2o\core\optimization_algorithm_gauss_newton.h(54,37): warning C4251:         with
+D:\g2o\source\g2o\core\optimization_algorithm_gauss_newton.h(54,37): warning C4251:         [
+D:\g2o\source\g2o\core\optimization_algorithm_gauss_newton.h(54,37): warning C4251:             _Ty=g2o::Solver
+D:\g2o\source\g2o\core\optimization_algorithm_gauss_newton.h(54,37): warning C4251:         ]
+D:\g2o\source\g2o\core\optimization_algorithm_levenberg.h(47): message :  参见“std::unique_ptr<g2o::Solver,std::default_delete<_Ty>>”的声明
+D:\g2o\source\g2o\core\optimization_algorithm_levenberg.h(47): message :         with
+D:\g2o\source\g2o\core\optimization_algorithm_levenberg.h(47): message :         [
+D:\g2o\source\g2o\core\optimization_algorithm_levenberg.h(47): message :             _Ty=g2o::Solver
+D:\g2o\source\g2o\core\optimization_algorithm_levenberg.h(47): message :         ]
+D:\g2o\source\g2o\core\optimization_algorithm_dogleg.h(79,19): warning C4251:  “g2o::OptimizationAlgorithmDogleg::_hsd”: class“Eigen::Matrix<double,-1,1,0,-1,1>”需要有 dll 接口由 class“g2o::OptimizationAlgorithmDogleg”的客户端使用
+D:\eigen3\Eigen\src\Core\Matrix.h(449): message :  参见“Eigen::Matrix<double,-1,1,0,-1,1>”的声明
+D:\g2o\source\g2o\core\optimization_algorithm_dogleg.h(80,19): warning C4251:  “g2o::OptimizationAlgorithmDogleg::_hdl”: class“Eigen::Matrix<double,-1,1,0,-1,1>”需要有 dll 接口由 class“g2o::OptimizationAlgorithmDogleg”的客户端使用
+D:\eigen3\Eigen\src\Core\Matrix.h(449): message :  参见“Eigen::Matrix<double,-1,1,0,-1,1>”的声明
+D:\g2o\source\g2o\core\optimization_algorithm_dogleg.h(81,25): warning C4251:  “g2o::OptimizationAlgorithmDogleg::_auxVector”: class“Eigen::Matrix<double,-1,1,0,-1,1>”需要有 dll 接口由 class“g2o::OptimizationAlgorithmDogleg”的客户端使用
+D:\eigen3\Eigen\src\Core\Matrix.h(449): message :  参见“Eigen::Matrix<double,-1,1,0,-1,1>”的声明
+D:\g2o\source\g2o\core\optimization_algorithm_dogleg.h(90,48): warning C4251:  “g2o::OptimizationAlgorithmDogleg::m_solver”: class“std::unique_ptr<g2o::BlockSolverBase,std::default_delete<_Ty>>”需要有 dll 接口由 class“g2o::OptimizationAlgorithmDogleg”的客户端使用
+D:\g2o\source\g2o\core\optimization_algorithm_dogleg.h(90,48): warning C4251:         with
+D:\g2o\source\g2o\core\optimization_algorithm_dogleg.h(90,48): warning C4251:         [
+D:\g2o\source\g2o\core\optimization_algorithm_dogleg.h(90,48): warning C4251:             _Ty=g2o::BlockSolverBase
+D:\g2o\source\g2o\core\optimization_algorithm_dogleg.h(90,48): warning C4251:         ]
+D:\g2o\source\g2o\core\optimization_algorithm_dogleg.h(56): message :  参见“std::unique_ptr<g2o::BlockSolverBase,std::default_delete<_Ty>>”的声明
+D:\g2o\source\g2o\core\optimization_algorithm_dogleg.h(56): message :         with
+D:\g2o\source\g2o\core\optimization_algorithm_dogleg.h(56): message :         [
+D:\g2o\source\g2o\core\optimization_algorithm_dogleg.h(56): message :             _Ty=g2o::BlockSolverBase
+D:\g2o\source\g2o\core\optimization_algorithm_dogleg.h(56): message :         ]
+D:\g2o\source\g2o\core\base_vertex.h(96,1): warning C4267:  “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\g2o\source\g2o\core\base_vertex.h(96): message :  在编译 类 模板 成员函数“int g2o::BaseVertex<3,Eigen::Vector3d>::stackSize(void) const”时
+E:\opencv\G2O\CurveFitting\CurveFitting\main.cpp(20): message :  查看对正在编译的 类 模板 实例化“g2o::BaseVertex<3,Eigen::Vector3d>”的引用
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\chrono(595): message :  查看对正在编译的 类 模板 实例化“std::chrono::duration<double,std::ratio<1,1>>”的引用
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\chrono(172): message :  查看对正在编译的 类 模板 实例化“std::chrono::duration<__int64,std::nano>”的引用
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\chrono(574): message :  查看对正在编译的 类 模板 实例化“std::chrono::time_point<std::chrono::steady_clock,std::chrono::steady_clock::duration>”的引用
+D:\g2o\source\g2o\solvers\dense\linear_solver_dense.h(83,1): warning C4267:  “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\g2o\source\g2o\solvers\dense\linear_solver_dense.h(66): message :  在编译 类 模板 成员函数“bool g2o::LinearSolverDense<Eigen::Matrix<double,3,3,0,3,3>>::solve(const g2o::SparseBlockMatrix<Eigen::Matrix<double,3,3,0,3,3>> &,number_t *,number_t *)”时
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\memory(1747): message :  查看对正在编译的 类 模板 实例化“g2o::LinearSolverDense<Eigen::Matrix<double,3,3,0,3,3>>”的引用
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\memory(1746): message :  在编译 类 模板 成员函数“void std::default_delete<_Ty>::operator ()(_Ty *) noexcept const”时
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\memory(1746): message :         with
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\memory(1746): message :         [
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\memory(1746): message :             _Ty=LinearSolver
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\memory(1746): message :         ]
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\memory(1859): message :  查看对正在编译的函数 模板 实例化“void std::default_delete<_Ty>::operator ()(_Ty *) noexcept const”的引用
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\memory(1859): message :         with
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\memory(1859): message :         [
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\memory(1859): message :             _Ty=LinearSolver
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\memory(1859): message :         ]
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\memory(1788): message :  查看对正在编译的 类 模板 实例化“std::default_delete<_Ty>”的引用
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\memory(1788): message :         with
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\memory(1788): message :         [
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\memory(1788): message :             _Ty=LinearSolver
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\memory(1788): message :         ]
+E:\opencv\G2O\CurveFitting\CurveFitting\main.cpp(101): message :  查看对正在编译的 类 模板 实例化“std::unique_ptr<LinearSolver,std::default_delete<_Ty>>”的引用
+E:\opencv\G2O\CurveFitting\CurveFitting\main.cpp(101): message :         with
+E:\opencv\G2O\CurveFitting\CurveFitting\main.cpp(101): message :         [
+E:\opencv\G2O\CurveFitting\CurveFitting\main.cpp(101): message :             _Ty=LinearSolver
+E:\opencv\G2O\CurveFitting\CurveFitting\main.cpp(101): message :         ]
+D:\g2o\source\g2o\solvers\dense\linear_solver_dense.h(84,1): warning C4267:  “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\g2o\source\g2o\core\block_solver.hpp(131,1): warning C4267:  “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\g2o\source\g2o\core\block_solver.hpp(104): message :  在编译 类 模板 成员函数“bool g2o::BlockSolver<g2o::BlockSolverTraits<3,1>>::buildStructure(bool)”时
+E:\opencv\G2O\CurveFitting\CurveFitting\main.cpp(97): message :  查看对正在编译的 类 模板 实例化“g2o::BlockSolver<g2o::BlockSolverTraits<3,1>>”的引用
+D:\g2o\source\g2o\core\block_solver.hpp(189,1): warning C4267:  “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\g2o\source\g2o\core\block_solver.hpp(198,1): warning C4267:  “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\g2o\source\g2o\core\block_solver.hpp(204,1): warning C4267:  “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\g2o\source\g2o\core\block_solver.hpp(209,1): warning C4267:  “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\g2o\source\g2o\core\block_solver.hpp(302,1): warning C4267:  “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\g2o\source\g2o\core\block_solver.hpp(260): message :  在编译 类 模板 成员函数“bool g2o::BlockSolver<g2o::BlockSolverTraits<3,1>>::updateStructure(const std::vector<g2o::HyperGraph::Vertex *,std::allocator<_Kty>> &,const g2o::HyperGraph::EdgeSet &)”时
+D:\g2o\source\g2o\core\block_solver.hpp(260): message :         with
+D:\g2o\source\g2o\core\block_solver.hpp(260): message :         [
+D:\g2o\source\g2o\core\block_solver.hpp(260): message :             _Kty=g2o::HyperGraph::Vertex *
+D:\g2o\source\g2o\core\block_solver.hpp(260): message :         ]
+D:\g2o\source\g2o\core\block_solver.hpp(498,1): warning C4267:  “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\g2o\source\g2o\core\block_solver.hpp(464): message :  在编译 类 模板 成员函数“bool g2o::BlockSolver<g2o::BlockSolverTraits<3,1>>::buildSystem(void)”时
+D:\g2o\source\g2o\core\sparse_block_matrix.hpp(302,1): warning C4267:  “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\g2o\source\g2o\core\sparse_block_matrix.hpp(291): message :  在编译 类 模板 成员函数“void g2o::SparseBlockMatrix<Eigen::Matrix<double,3,3,0,3,3>>::multiplySymmetricUpperTriangle(number_t *&,const number_t *) const”时
+D:\g2o\source\g2o\core\block_solver.h(145): message :  查看对正在编译的函数 模板 实例化“void g2o::SparseBlockMatrix<Eigen::Matrix<double,3,3,0,3,3>>::multiplySymmetricUpperTriangle(number_t *&,const number_t *) const”的引用
+D:\g2o\source\g2o\core\block_solver.h(145): message :  查看对正在编译的 类 模板 实例化“g2o::SparseBlockMatrix<Eigen::Matrix<double,3,3,0,3,3>>”的引用
+D:\g2o\source\g2o\core\block_solver.h(145): message :  在编译 类 模板 成员函数“void g2o::BlockSolver<g2o::BlockSolverTraits<3,1>>::multiplyHessian(number_t *,const number_t *) const”时
+D:\g2o\source\g2o\core\sparse_block_matrix.hpp(589,1): warning C4267:  “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\g2o\source\g2o\core\sparse_block_matrix.hpp(581): message :  在编译 类 模板 成员函数“bool g2o::SparseBlockMatrix<Eigen::Matrix<double,3,3,0,3,3>>::writeOctave(const char *,bool) const”时
+D:\g2o\source\g2o\core\block_solver.hpp(592): message :  查看对正在编译的函数 模板 实例化“bool g2o::SparseBlockMatrix<Eigen::Matrix<double,3,3,0,3,3>>::writeOctave(const char *,bool) const”的引用
+D:\g2o\source\g2o\core\block_solver.hpp(569): message :  在编译 类 模板 成员函数“bool g2o::BlockSolver<g2o::BlockSolverTraits<3,1>>::init(g2o::SparseOptimizer *,bool)”时
+D:\g2o\source\g2o\core\sparse_block_matrix.hpp(605,1): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\g2o\source\g2o\core\sparse_block_matrix.hpp(651,1): warning C4267:  “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\g2o\source\g2o\core\sparse_block_matrix.hpp(643): message :  在编译 类 模板 成员函数“int g2o::SparseBlockMatrix<Eigen::Matrix<double,3,3,0,3,3>>::fillSparseBlockMatrixCCSTransposed(g2o::SparseBlockMatrixCCS<Eigen::Matrix<double,3,3,0,3,3>> &) const”时
+D:\g2o\source\g2o\core\block_solver.hpp(253): message :  查看对正在编译的函数 模板 实例化“int g2o::SparseBlockMatrix<Eigen::Matrix<double,3,3,0,3,3>>::fillSparseBlockMatrixCCSTransposed(g2o::SparseBlockMatrixCCS<Eigen::Matrix<double,3,3,0,3,3>> &) const”的引用
+D:\g2o\source\g2o\core\sparse_block_matrix.hpp(192,1): warning C4267:  “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\g2o\source\g2o\core\sparse_block_matrix.hpp(186): message :  在编译 类 模板 成员函数“void g2o::SparseBlockMatrix<Eigen::Matrix<double,3,3,0,3,3>>::add_internal(g2o::SparseBlockMatrix<Eigen::Matrix<double,3,3,0,3,3>> &) const”时
+D:\g2o\source\g2o\core\sparse_block_matrix.hpp(218): message :  查看对正在编译的函数 模板 实例化“void g2o::SparseBlockMatrix<Eigen::Matrix<double,3,3,0,3,3>>::add_internal(g2o::SparseBlockMatrix<Eigen::Matrix<double,3,3,0,3,3>> &) const”的引用
+D:\g2o\source\g2o\core\block_solver.hpp(57): message :  在编译 类 模板 成员函数“void g2o::BlockSolver<g2o::BlockSolverTraits<3,1>>::resize(int *,int,int *,int,int)”时
+D:\g2o\source\g2o\core\block_solver.hpp(131): message :  查看对正在编译的函数 模板 实例化“void g2o::BlockSolver<g2o::BlockSolverTraits<3,1>>::resize(int *,int,int *,int,int)”的引用
+D:\g2o\source\g2o\core\block_solver.hpp(100): message :  在编译 类 模板 成员函数“g2o::BlockSolver<g2o::BlockSolverTraits<3,1>>::~BlockSolver(void)”时
+  CurveFitting.vcxproj -> E:\opencv\G2o\CurveFitting\x64\Debug\CurveFitting.exe
